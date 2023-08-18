@@ -43,21 +43,22 @@ body {
     font-size: 2.5rem;
 }
 
-h2 {
+.Title {
     font-family: 'Sacramento', cursive;
     font-size: 30px;
     margin: 5px;
 }
 
-h3 {
+.About {
     font-family: 'Sacramento', cursive;
     font-size: 70;
     margin: 5px;
 }
 
-p {
+.About {
     margin: 15px;
 }
+
 .hero h4 {
     font-size: 3rem;
     font-weight: bold;
