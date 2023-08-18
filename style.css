@@ -33,38 +33,38 @@ body {
     min-height: 100vh;
 }
 
-.hero h1, .hero h4, hero p {
+.nama-header, .header, .isi-header {
     text-shadow: var(--shadow);
 }
 
 
-.hero h1 {
+.nama-header {
     font-family: 'Sacramento', cursive;
     font-size: 2.5rem;
 }
 
-.Title {
+.title {
     font-family: 'Sacramento', cursive;
     font-size: 30px;
     margin: 5px;
 }
 
-.About {
+.about {
     font-family: 'Sacramento', cursive;
     font-size: 70;
     margin: 5px;
 }
 
-.About {
+.isi-about {
     margin: 15px;
 }
 
-.hero h4 {
+.header {
     font-size: 3rem;
     font-weight: bold;
 }
 
-.hero p{
+.isi-header{
     font-size: 2rem;
 }
 
